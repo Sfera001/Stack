@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stack</string>
+    <string name="add_button">Add New Button</string>
+    <string name="delete_first_button">Delete First Button</string>
+    <string name="delete_last_button">Delete Last Button</string>
+    <string name="delete_all_buttons">Delete All Buttons</string>
+</resources>
